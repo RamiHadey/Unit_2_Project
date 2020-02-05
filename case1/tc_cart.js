@@ -9,7 +9,7 @@
    Date:  2/3/20
    
    Filename: tc_cart.js
-	
+	 
 */
 //starts the value of the order as 0
 var orderTotal = 0;

@@ -10,7 +10,7 @@
    
    Variables:
    itemTitle contains the title of the game
-   itemManufacturer specifies the game manufacturer
+   itemManufacturer specifies the game manufacturer  
    itemID contains the ID of the game
    itemPrice contains the price of the game
    itemPlatform lists the platforms supported by the game

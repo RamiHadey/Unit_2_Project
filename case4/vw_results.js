@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 4
 
-   Author: 
-   Date:   
+   Author: Rami Hadey
+   Date:  2/5/20
    
    Filename: vw_results.js
    
@@ -24,6 +24,15 @@
       
 */
 
+
+var reportHTML = "<h1>" + raceTitle + "</h1>"
+for(var i = 0; i < race.length; i++){
+   var totalVotes = 0;
+   votes[i].forEach(calcSum);
+   reportHTML += "<table> <caption>" + race[i] + "</caption> <tr><th>Candiate</th><th>Votes</th><tr>";
+   
+
+}
 
 
 

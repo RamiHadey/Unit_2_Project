@@ -23,7 +23,7 @@
       A multidimensional array showing the votes for each 
       candidate from each race
      
-*/
+*/ 
 
 var raceTitle = "Minnesota Congressional Elections";
 
